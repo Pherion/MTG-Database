@@ -11,6 +11,6 @@
     <title></title>
   </head>
   <body>
-
+    <a href="/servlets/TestServlet">Click Me</a>
   </body>
 </html>
