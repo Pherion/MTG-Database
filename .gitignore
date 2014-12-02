@@ -19,3 +19,4 @@ out/artifacts/MTG_Database_war_exploded/WEB-INF/classes/carroll/franklin/d/servl
 out/artifacts/MTG_Database_war_exploded/WEB-INF/web.xml
 out/production/MTG-Database/carroll/franklin/d/databaseUtilities/SqlCommandExecuter.class
 out/production/MTG-Database/carroll/franklin/d/servlets/TestServlet.class
+.idea/libraries/json_simple_1_1_1.xml
