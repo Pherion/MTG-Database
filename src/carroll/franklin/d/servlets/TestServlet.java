@@ -1,4 +1,4 @@
-package carroll.franklin.d.mtgDatabase.servlets;
+package carroll.franklin.d.servlets;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
